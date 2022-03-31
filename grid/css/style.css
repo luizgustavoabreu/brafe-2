@@ -52,7 +52,7 @@ body {
 
 .header-menu li a::before {
 	content: '•';
-	padding-right: 10px;
+	padding-right: 15px;
 }
 
 .header-menu li:first-child a::before {
@@ -65,6 +65,12 @@ body {
 	background: #e7e4d8;
 	border: 3px solid #d6d3c8;
 	padding: 20px;
+}
+
+@media (max-width: 739px) {
+  .filtro {
+    display: none;
+  }
 }
 
 .filtro h2 {
