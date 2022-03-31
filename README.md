@@ -7,8 +7,8 @@
  
 |**Brafé  2**|**Deploy**|
 |:---:|---|
-|*Puro:*|https://brafe-2.netlify.app/puro  :construction:|
-|*Grid:*||
+|*Puro:*|https://brafe-2.netlify.app/puro|
+|*Grid:*|https://brafe-2.netlify.app/grid  :construction:|
 |*Flexbox:*||
 |*Bootstrap:*||
  
