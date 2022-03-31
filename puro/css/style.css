@@ -57,7 +57,7 @@ body {
 
 .header-menu li a::before {
   content: "•";
-  padding-right: 10px;
+  padding-right: 15px;
 }
 
 .header-menu li:first-child a::before {
@@ -100,7 +100,7 @@ body {
 }
 @media (max-width: 739px) {
   .container {
-    max-width: 300px;
+    max-width: fit-content;
   }
   .filtro {
     display: none;
@@ -223,6 +223,7 @@ body {
   }
   .produtos li {
     width: 140px;
+    margin-left: -3px;
   }
 }
 
