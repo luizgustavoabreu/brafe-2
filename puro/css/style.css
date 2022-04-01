@@ -220,10 +220,11 @@ body {
 @media (max-width: 739px) {
   .produtos {
     width: 300px;
+    margin-left: 4px;
   }
   .produtos li {
     width: 140px;
-    margin-left: -3px;
+    /* margin-left: -3px; */
   }
 }
 
