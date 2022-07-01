@@ -2,7 +2,7 @@
 
 <div align="center">
  
-### Site **Brafé (layout 2)**, feito de quatro maneiras diferentes no <br> curso de CSS Avançado/Posicionamento da Origamid. 
+### Projeto [Brafé (layout 2)](https://brafe-2.netlify.app/puro), feito de quatro maneiras diferentes<br> no curso de [CSS Avançado/Posicionamento](https://www.origamid.com/curso/css-avancado-posicionamento) da [Origamid](https://www.origamid.com). 
 <br>
  
 |**Brafé  2**|**Deploy**|
@@ -15,6 +15,6 @@
 <br>
 <br>
  
-[![Preview Brafé 2](https://user-images.githubusercontent.com/72631018/162209715-e6c1797c-465a-49b9-8d22-06787ab9ca80.png)](https://brafe-2.netlify.app/puro)
+<kbd>[![Preview Brafé 2](https://user-images.githubusercontent.com/72631018/162209715-e6c1797c-465a-49b9-8d22-06787ab9ca80.png)](https://brafe-2.netlify.app/puro)</kbd>
  
 </div>
